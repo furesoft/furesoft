@@ -14,5 +14,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=furesoft&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furesoft&theme=monokai&utcOffset=8)
 
-** Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=furesoft)](https://github.com/furesoft/furesoft)
