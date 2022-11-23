@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A passionate compiler developer from Germany</h3>
+<h3 align="center">A passionated compiler developer from Germany</h3>
 
 - 🔭 I’m currently working on [Slithin](https://github.com/furesoft/Slithin) and [Backlang](https://github.com/Backseating-Committee-2k/Backlang)
 
