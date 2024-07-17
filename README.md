@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionated compiler developer from Germany</h3>
 
-- 💬 Ask me about **C#, .Net, Compiler,**
+💬 Ask me about **C#, .Net, Compiler-Developement,**
+
+  
+You can contact me on discord: grammarboy97
 
 <a href="https://www.buymeacoffee.com/furesoft" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
