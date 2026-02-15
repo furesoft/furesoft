@@ -7,6 +7,7 @@
 
 You can contact me on discord: grammarboy97
 or Mastodon: @furesoft
+or matrix: filmee24
 
 <a href="https://www.buymeacoffee.com/furesoft" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
@@ -36,4 +37,3 @@ or Mastodon: @furesoft
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=furesoft&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=furesoft&theme=monokai&utcOffset=8)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=furesoft)](https://github.com/furesoft/furesoft)
