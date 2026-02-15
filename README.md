@@ -31,7 +31,6 @@ or matrix: filmee24
 
 
 ![](https://gitwar.herokuapp.com/badge?username=furesoft)
-<a href="https://app.daily.dev/furesoft"><img src="https://api.daily.dev/devcards/v2/dljsi6QfEM5Ub3DcYEhs5.png?type=default&r=7u0" width="356" alt="Chris Anders's Dev Card"/></a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furesoft&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=furesoft&theme=monokai)
